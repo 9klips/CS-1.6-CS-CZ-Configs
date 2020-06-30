@@ -14,4 +14,4 @@ Download [userconfig.cfg](userconfig.cfg) & [cs.cfg](cz/cs.cfg) and place it her
 > ....\Steam\steamapps\common\Half-Life\czero
 
 ## IMPORTANT:-
-** Make both userconfig.cfg and cs.cfg read-only from properties.**
+**Make both `userconfig.cfg` and `cs.cfg` read-only from properties**
